@@ -1,0 +1,13 @@
+.app-warehouse{
+    &__block{
+        width: 12vw;
+        height:12vw;
+        background-color: blueviolet;
+    }
+
+    &__list{
+        width: 90%;
+        height: 4vw;
+        background-color: crimson;
+    }
+}

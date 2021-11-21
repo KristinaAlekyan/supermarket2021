@@ -1,0 +1,21 @@
+.app-warehouse-list{
+    width: 100%;
+    min-height: 100vh;
+    height: fit-content;
+    background-color: coral;
+
+    display: flex;
+    align-items: center;
+    
+
+    &__block{
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+
+    &__list{
+        flex-direction: column;
+        justify-content: space-around;
+    }
+}
