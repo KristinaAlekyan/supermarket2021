@@ -1,0 +1,36 @@
+C:\Users\User\source\repos\Supermarket\Supermarket.Models\bin\Debug\net5.0\Supermarket.Models.deps.json
+C:\Users\User\source\repos\Supermarket\Supermarket.Models\bin\Debug\net5.0\Supermarket.Models.dll
+C:\Users\User\source\repos\Supermarket\Supermarket.Models\bin\Debug\net5.0\ref\Supermarket.Models.dll
+C:\Users\User\source\repos\Supermarket\Supermarket.Models\bin\Debug\net5.0\Supermarket.Models.pdb
+C:\Users\User\source\repos\Supermarket\Supermarket.Models\obj\Debug\net5.0\Supermarket.Models.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Supermarket\Supermarket.Models\obj\Debug\net5.0\Supermarket.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Supermarket\Supermarket.Models\obj\Debug\net5.0\Supermarket.Models.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Supermarket\Supermarket.Models\obj\Debug\net5.0\Supermarket.Models.AssemblyInfo.cs
+C:\Users\User\source\repos\Supermarket\Supermarket.Models\obj\Debug\net5.0\Supermarket.Models.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Supermarket\Supermarket.Models\obj\Debug\net5.0\Supermarket.Models.dll
+C:\Users\User\source\repos\Supermarket\Supermarket.Models\obj\Debug\net5.0\ref\Supermarket.Models.dll
+C:\Users\User\source\repos\Supermarket\Supermarket.Models\obj\Debug\net5.0\Supermarket.Models.pdb
+C:\Users\User\source\repos\something\Supermarket\Supermarket.Models\bin\Debug\net5.0\Supermarket.Models.deps.json
+C:\Users\User\source\repos\something\Supermarket\Supermarket.Models\bin\Debug\net5.0\Supermarket.Models.dll
+C:\Users\User\source\repos\something\Supermarket\Supermarket.Models\bin\Debug\net5.0\ref\Supermarket.Models.dll
+C:\Users\User\source\repos\something\Supermarket\Supermarket.Models\bin\Debug\net5.0\Supermarket.Models.pdb
+C:\Users\User\source\repos\something\Supermarket\Supermarket.Models\obj\Debug\net5.0\Supermarket.Models.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\something\Supermarket\Supermarket.Models\obj\Debug\net5.0\Supermarket.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\something\Supermarket\Supermarket.Models\obj\Debug\net5.0\Supermarket.Models.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\something\Supermarket\Supermarket.Models\obj\Debug\net5.0\Supermarket.Models.AssemblyInfo.cs
+C:\Users\User\source\repos\something\Supermarket\Supermarket.Models\obj\Debug\net5.0\Supermarket.Models.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\something\Supermarket\Supermarket.Models\obj\Debug\net5.0\Supermarket.Models.dll
+C:\Users\User\source\repos\something\Supermarket\Supermarket.Models\obj\Debug\net5.0\ref\Supermarket.Models.dll
+C:\Users\User\source\repos\something\Supermarket\Supermarket.Models\obj\Debug\net5.0\Supermarket.Models.pdb
+D:\ReactJS\HelpSystems internship\supermarket-project\supermarket2021\back\Supermarket.Models\bin\Debug\net5.0\Supermarket.Models.deps.json
+D:\ReactJS\HelpSystems internship\supermarket-project\supermarket2021\back\Supermarket.Models\bin\Debug\net5.0\Supermarket.Models.dll
+D:\ReactJS\HelpSystems internship\supermarket-project\supermarket2021\back\Supermarket.Models\bin\Debug\net5.0\ref\Supermarket.Models.dll
+D:\ReactJS\HelpSystems internship\supermarket-project\supermarket2021\back\Supermarket.Models\bin\Debug\net5.0\Supermarket.Models.pdb
+D:\ReactJS\HelpSystems internship\supermarket-project\supermarket2021\back\Supermarket.Models\obj\Debug\net5.0\Supermarket.Models.csproj.AssemblyReference.cache
+D:\ReactJS\HelpSystems internship\supermarket-project\supermarket2021\back\Supermarket.Models\obj\Debug\net5.0\Supermarket.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\ReactJS\HelpSystems internship\supermarket-project\supermarket2021\back\Supermarket.Models\obj\Debug\net5.0\Supermarket.Models.AssemblyInfoInputs.cache
+D:\ReactJS\HelpSystems internship\supermarket-project\supermarket2021\back\Supermarket.Models\obj\Debug\net5.0\Supermarket.Models.AssemblyInfo.cs
+D:\ReactJS\HelpSystems internship\supermarket-project\supermarket2021\back\Supermarket.Models\obj\Debug\net5.0\Supermarket.Models.csproj.CoreCompileInputs.cache
+D:\ReactJS\HelpSystems internship\supermarket-project\supermarket2021\back\Supermarket.Models\obj\Debug\net5.0\Supermarket.Models.dll
+D:\ReactJS\HelpSystems internship\supermarket-project\supermarket2021\back\Supermarket.Models\obj\Debug\net5.0\ref\Supermarket.Models.dll
+D:\ReactJS\HelpSystems internship\supermarket-project\supermarket2021\back\Supermarket.Models\obj\Debug\net5.0\Supermarket.Models.pdb
