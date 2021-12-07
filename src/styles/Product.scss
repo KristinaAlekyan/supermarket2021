@@ -1,0 +1,37 @@
+.app-product {
+  width: 70vw;
+  height: 10vh;
+  background-color: cadetblue;
+  border-radius: 20px;
+
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin: 1vh;
+
+  &__main {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    flex-direction: column;
+    padding: 8px;
+  }
+
+  &__description{
+      width: 60vw;
+  }
+
+  &__category-rating{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+
+    span{
+        text-align: center;
+
+    }
+
+    padding: 8px;
+  }
+}

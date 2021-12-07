@@ -1,11 +1,13 @@
-import './styles/App.scss';
-import WarehousesList from './components/WarehouseList';
+import { BrowserRouter } from "react-router-dom";
 
+import AppRoutes from "./components/AppRoutes";
+
+import "./styles/App.scss";
 function App() {
   return (
-    <div className="App">
-      <WarehousesList/>
-    </div>
+    <BrowserRouter>
+      <AppRoutes />
+    </BrowserRouter>
   );
 }
 

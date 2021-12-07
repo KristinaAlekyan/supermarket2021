@@ -1,0 +1,41 @@
+.app-login {
+    width: 100vw;
+    height: 100vh;
+  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+    &__main {
+      width: 45vw;
+      height: 50vh;
+      background-color: aquamarine;
+      border-radius: 20px;
+  
+      display: flex;
+      align-items: center;
+      justify-content: space-evenly;
+      flex-direction: column;
+  
+      input {
+        width: 70%;
+        padding: 1vh;
+        border: none;
+        border-radius: 20px;
+      }
+  
+      button {
+        padding: 2vh;
+        border: none;
+        border-radius: 20px;
+        background-color: cornsilk;
+        transition: all 2s;
+  
+        &:hover {
+          cursor: pointer;
+          background-color: chartreuse;
+        }
+      }
+    }
+  }
+  

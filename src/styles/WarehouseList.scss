@@ -1,25 +1,36 @@
 .app-warehouse-list{
-    width: 100%;
-    min-height: 90vh;
+    width: 100vw;
+    min-height: 70vh;
+    margin-top: 5vh;
     height: fit-content;
-    background-color: coral;
+    background-color: burlywood;
+    border-radius: 20px;
 
     display: flex;
     align-items: center;
     
 
     &__header{
-        width: 100%;
+        width: 100vw;
         height: 10vh;
-        background-color: black;
+        background-color: bisque;
+        border-radius: 20px;
 
         display: flex;
         justify-content: center;
         align-items: center;
 
         button{
-            background-color: bisque;
-            border-radius: 10px;
+            background-color: gray;
+            padding: 1vh;
+            border: none;
+            border-radius: 20px;
+            transition: all 2s;
+
+            &:hover{
+                cursor: pointer;
+                background-color: chartreuse;
+            }
         }
     }
 

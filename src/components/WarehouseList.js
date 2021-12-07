@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from "react";
 import warehouseData from "../mockup/warehouses";
-import Warehouse from "./Warehouse";
+// import service from "../api/service";
 
-import service from "../api/service";
+import Warehouse from "./Warehouse";
 
 import "../styles/WarehouseList.scss";
 
@@ -11,9 +11,9 @@ const WarehousesList = () => {
   const [blockView, setBlockView] = useState(false);
 
   useEffect(() => {
+    // let data = service.getAllItems();
+    // setWarehouses(data);
     setWarehouses(warehouseData);
-    let res = service.getAllItems();
-    console.log("result :", res);
   }, []);
 
   const viewToggler = () => {
@@ -39,6 +39,7 @@ const WarehousesList = () => {
             return (
               <Warehouse
                 key={idx}
+                id={el.id}
                 name={el.name}
                 address={el.address}
                 capacity={el.capacity}

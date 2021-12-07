@@ -1,13 +1,35 @@
-.app-warehouse{
-    &__block{
-        width: 12vw;
-        height:12vw;
-        background-color: blueviolet;
-    }
+.app-warehouse {
+  &__block {
+    width: 12vw;
+    height: 12vw;
+    background-color: firebrick;
+    color: azure;
+    border-radius: 20px;
 
-    &__list{
-        width: 90%;
-        height: 4vw;
-        background-color: crimson;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+
+    &:hover {
+      cursor: pointer;
     }
+  }
+
+  &__list {
+    width: 90%;
+    height: 4vw;
+    background-color: firebrick;
+    color: azure;
+    border-radius: 20px;
+
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+
+    &:hover {
+      cursor: pointer;
+    }
+  }
 }

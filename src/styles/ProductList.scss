@@ -1,0 +1,53 @@
+.app-products-list {
+  width: 100vw;
+  height: 100vh;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-direction: column;
+
+  &__search-bar {
+    width: 80vw;
+    height: 10vh;
+
+    border-radius: 20px;
+    background-color: bisque;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+
+    input {
+      width: 65vw;
+      padding: 10px;
+      border-radius: 20px;
+      border: none;
+    }
+
+    button{
+        padding: 10px;
+        border-radius: 20px;
+        border: none;
+        background-color: cornsilk;
+        transition: all;
+        &:hover{
+            cursor: pointer;
+            background-color: chartreuse;
+        }
+    }
+  }
+
+  &__content {
+    width: 80vw;
+
+    background-color: burlywood;
+    border-radius: 20px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+  }
+}

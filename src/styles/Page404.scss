@@ -1,0 +1,13 @@
+.app-404 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+
+  &__image {
+    background: url("../assets/404.jpg")no-repeat center center;
+    height: 60vh;
+    width: 60vw;
+  }
+}
